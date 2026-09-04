@@ -36,7 +36,7 @@
 		<repository>
 			<id>p2-knime-update-site</id>
 			<layout>p2</layout>
-			<url>https://update.knime.com/analytics-platform/${knime.version}</url>
+			<url></url>
 		</repository>
 	</repositories>
 
